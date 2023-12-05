@@ -1,0 +1,1851 @@
+{
+  "style": {
+    "font-family": "sans-serif",
+    "background-color": "#ffffff",
+    "background-image": "",
+    "background-size": "100%",
+    "node-color": "#ffffff",
+    "border-width": 4,
+    "border-color": "#000000",
+    "radius": 50,
+    "node-padding": 5,
+    "node-margin": 2,
+    "outside-position": "auto",
+    "node-icon-image": "",
+    "node-background-image": "",
+    "icon-position": "inside",
+    "icon-size": 64,
+    "caption-position": "inside",
+    "caption-max-width": 200,
+    "caption-color": "#000000",
+    "caption-font-size": 50,
+    "caption-font-weight": "normal",
+    "label-position": "inside",
+    "label-display": "pill",
+    "label-color": "#000000",
+    "label-background-color": "#ffffff",
+    "label-border-color": "#000000",
+    "label-border-width": 4,
+    "label-font-size": 40,
+    "label-padding": 5,
+    "label-margin": 4,
+    "directionality": "directed",
+    "detail-position": "inline",
+    "detail-orientation": "parallel",
+    "arrow-width": 5,
+    "arrow-color": "#000000",
+    "margin-start": 5,
+    "margin-end": 5,
+    "margin-peer": 20,
+    "attachment-start": "normal",
+    "attachment-end": "normal",
+    "relationship-icon-image": "",
+    "type-color": "#000000",
+    "type-background-color": "#ffffff",
+    "type-border-color": "#000000",
+    "type-border-width": 0,
+    "type-font-size": 16,
+    "type-padding": 5,
+    "property-position": "inside",
+    "property-alignment": "colon",
+    "property-color": "#000000",
+    "property-font-size": 16,
+    "property-font-weight": "normal"
+  },
+  "nodes": [
+    {
+      "id": "n1",
+      "position": {
+        "x": 1075.1474704653483,
+        "y": 190.13560477988358
+      },
+      "caption": "HydraDX",
+      "labels": [
+        "zone"
+      ],
+      "properties": {
+        "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/6753.png",
+        "networkId": "HydraDX",
+        "name": "hydradx"
+      },
+      "style": {
+        "radius": 100,
+        "node-color": "#a4dd00",
+        "border-color": "#68bc00",
+        "caption-font-size": 100
+      }
+    },
+    {
+      "id": "n3",
+      "position": {
+        "x": 1461.5619876073877,
+        "y": 38.96515065952232
+      },
+      "caption": "USDT",
+      "labels": [
+        "token"
+      ],
+      "properties": {
+        "ticker": "USDT",
+        "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/21763.png",
+        "denom": "husdt"
+      },
+      "style": {
+        "node-color": "#73d8ff",
+        "border-color": "#0062b1"
+      }
+    },
+    {
+      "id": "n16",
+      "position": {
+        "x": 1393.022615374294,
+        "y": 1816.0065836506458
+      },
+      "caption": "Name services",
+      "labels": [
+        "category"
+      ],
+      "properties": {
+        "name": "Name services",
+        "featured": "false",
+        "imageUrl": "https://esaypay-storage.fra1.cdn.digitaloceanspaces.com/catalog/categories/name_services.png"
+      },
+      "style": {
+        "node-color": "#ab149e"
+      }
+    },
+    {
+      "id": "n17",
+      "position": {
+        "x": 1444.2579036520929,
+        "y": 1424.0826810429614
+      },
+      "caption": "Donations",
+      "labels": [
+        "category"
+      ],
+      "properties": {
+        "name": "Donations",
+        "featured": "false",
+        "imageUrl": "https://esaypay-storage.fra1.cdn.digitaloceanspaces.com/catalog/categories/donations.png"
+      },
+      "style": {
+        "node-color": "#ab149e"
+      }
+    },
+    {
+      "id": "n18",
+      "position": {
+        "x": 2017.9337014739945,
+        "y": 1424.0826810429614
+      },
+      "caption": "Subscriptions",
+      "labels": [
+        "category"
+      ],
+      "properties": {
+        "name": "Subscriptions",
+        "featured": "true",
+        "imageUrl": "https://esaypay-storage.fra1.cdn.digitaloceanspaces.com/catalog/categories/subscriptions.png"
+      },
+      "style": {
+        "node-color": "#ab149e"
+      }
+    },
+    {
+      "id": "n19",
+      "position": {
+        "x": 1992.9098370563715,
+        "y": 1196.747359460517
+      },
+      "caption": "Gift cards",
+      "labels": [
+        "category"
+      ],
+      "properties": {
+        "name": "Gift cards",
+        "featured": "false",
+        "imageUrl": "https://esaypay-storage.fra1.cdn.digitaloceanspaces.com/catalog/categories/gift_cards.png"
+      },
+      "style": {
+        "node-color": "#ab149e"
+      }
+    },
+    {
+      "id": "n20",
+      "position": {
+        "x": 1954.9063181183017,
+        "y": 1607.391279186402
+      },
+      "caption": "NFTs",
+      "labels": [
+        "category"
+      ],
+      "properties": {
+        "name": "NFTs",
+        "featured": "true",
+        "imageUrl": "https://esaypay-storage.fra1.cdn.digitaloceanspaces.com/catalog/categories/nfts.png"
+      },
+      "style": {
+        "node-color": "#ab149e"
+      }
+    },
+    {
+      "id": "n22",
+      "position": {
+        "x": 1889.0043319308597,
+        "y": 1791.6756058553208
+      },
+      "caption": "Education",
+      "labels": [
+        "category"
+      ],
+      "properties": {
+        "name": "Education",
+        "featured": "false",
+        "imageUrl": "https://esaypay-storage.fra1.cdn.digitaloceanspaces.com/catalog/categories/education.png"
+      },
+      "style": {
+        "node-color": "#ab149e"
+      }
+    },
+    {
+      "id": "n23",
+      "position": {
+        "x": 1672.218358578747,
+        "y": 1572.9150576796626
+      },
+      "caption": "Entertainments",
+      "labels": [
+        "category"
+      ],
+      "properties": {
+        "name": "Entertainments",
+        "featured": "false",
+        "imageUrl": "https://esaypay-storage.fra1.cdn.digitaloceanspaces.com/catalog/categories/entertainment.png"
+      },
+      "style": {
+        "node-color": "#ab149e"
+      }
+    },
+    {
+      "id": "n24",
+      "position": {
+        "x": 1724.0663607305721,
+        "y": 1733.1507499394277
+      },
+      "caption": "Digital services",
+      "labels": [
+        "category"
+      ],
+      "properties": {
+        "name": "Digital services",
+        "featured": "false",
+        "imageUrl": "https://esaypay-storage.fra1.cdn.digitaloceanspaces.com/catalog/categories/digital_services.png"
+      },
+      "style": {
+        "node-color": "#ab149e"
+      }
+    },
+    {
+      "id": "n25",
+      "position": {
+        "x": 1547.2636257289685,
+        "y": 1816.0065836506458
+      },
+      "caption": "Healthcare",
+      "labels": [
+        "category"
+      ],
+      "properties": {
+        "name": "Healthcare",
+        "featured": "false",
+        "imageUrl": "https://esaypay-storage.fra1.cdn.digitaloceanspaces.com/catalog/categories/healthcare.png"
+      },
+      "style": {
+        "node-color": "#ab149e"
+      }
+    },
+    {
+      "id": "n26",
+      "position": {
+        "x": 1853.9859420004045,
+        "y": 1424.0826810429614
+      },
+      "caption": "18+",
+      "labels": [
+        "category"
+      ],
+      "properties": {
+        "name": "18+",
+        "featured": "true",
+        "imageUrl": "https://esaypay-storage.fra1.cdn.digitaloceanspaces.com/catalog/categories/18plus.JPG"
+      },
+      "style": {
+        "node-color": "#ab149e"
+      }
+    },
+    {
+      "id": "n28",
+      "position": {
+        "x": 2103.6353395955753,
+        "y": 772.1395550236622
+      },
+      "caption": "DAOs",
+      "labels": [
+        "category"
+      ],
+      "properties": {
+        "name": "DAOs",
+        "featured": "true",
+        "imageUrl": "https://esaypay-storage.fra1.cdn.digitaloceanspaces.com/catalog/categories/daos.png"
+      },
+      "style": {
+        "node-color": "#ab149e"
+      }
+    },
+    {
+      "id": "n29",
+      "position": {
+        "x": 1461.5619876073877,
+        "y": 1666.8072027642604
+      },
+      "caption": "Other",
+      "labels": [
+        "category"
+      ],
+      "properties": {
+        "name": "Other",
+        "featured": "false",
+        "imageUrl": "https://esaypay-storage.fra1.cdn.digitaloceanspaces.com/catalog/categories/other.png"
+      },
+      "style": {
+        "node-color": "#ab149e"
+      }
+    },
+    {
+      "id": "n30",
+      "position": {
+        "x": 481.9772500149158,
+        "y": 1357.1782312978767
+      },
+      "caption": "Donation to EasyPay team",
+      "labels": [
+        "product"
+      ],
+      "properties": {
+        "title": "Donation to EasyPay team",
+        "description": "Unified payment system for seamless web3",
+        "imageUrl": "https://esaypay-storage.fra1.cdn.digitaloceanspaces.com/catalog/items/team.PNG",
+        "requestedAmount": "0.0314",
+        "creationDate": "2023-01-01T10:00:00",
+        "dueDate": "2024-01-01T10:00:00"
+      },
+      "style": {
+        "node-color": "#aea1ff"
+      }
+    },
+    {
+      "id": "n34",
+      "position": {
+        "x": 972.5619313831812,
+        "y": 1081.4100569081318
+      },
+      "caption": "Personal donation to Alexandra",
+      "labels": [
+        "product"
+      ],
+      "properties": {
+        "title": "Personal donation to Alexandra",
+        "description": "Product Designer at EasyPay Network",
+        "requestedAmount": "0.031415",
+        "imageUrl": "https://esaypay-storage.fra1.cdn.digitaloceanspaces.com/catalog/items/alexandra.PNG",
+        "creationDate": "2023-02-01T10:10:10",
+        "dueDate": "2023-12-15T19:20:33"
+      },
+      "style": {
+        "node-color": "#aea1ff"
+      }
+    },
+    {
+      "id": "n35",
+      "position": {
+        "x": 236.29294537881125,
+        "y": 1158.9848970452065
+      },
+      "caption": "Personal donation to Daniel",
+      "labels": [
+        "product"
+      ],
+      "properties": {
+        "title": "Personal donation to Daniel",
+        "description": "Tech & Product Lead at EasyPay Network",
+        "requestedAmount": "0.031415",
+        "imageUrl": "https://esaypay-storage.fra1.cdn.digitaloceanspaces.com/catalog/items/daniel.PNG",
+        "creationDate": "2023-02-01T10:10:10",
+        "dueDate": "2023-12-15T19:20:33"
+      },
+      "style": {
+        "node-color": "#aea1ff"
+      }
+    },
+    {
+      "id": "n37",
+      "position": {
+        "x": 103.82728325891048,
+        "y": 1242.8326033519745
+      },
+      "caption": "Personal donation to Ihar",
+      "labels": [
+        "product"
+      ],
+      "properties": {
+        "title": "Personal donation to Ihar",
+        "description": "Frontend Engineer at EasyPay Network",
+        "requestedAmount": "0.031415",
+        "imageUrl": "https://esaypay-storage.fra1.cdn.digitaloceanspaces.com/catalog/items/ihar.PNG",
+        "creationDate": "2023-02-01T10:10:10",
+        "dueDate": "2023-12-15T19:20:33"
+      },
+      "style": {
+        "node-color": "#aea1ff"
+      }
+    },
+    {
+      "id": "n41",
+      "position": {
+        "x": 1769.2702574611912,
+        "y": 476.69293731759467
+      },
+      "caption": "DAO Payroll",
+      "labels": [
+        "product"
+      ],
+      "properties": {
+        "title": "DAO Payroll",
+        "description": "Bla-bla-bla9... bla-bla9.",
+        "requestedAmount": "3.141592",
+        "imageUrl": "https://esaypay-storage.fra1.cdn.digitaloceanspaces.com/catalog/items/dao_payroll.JPG",
+        "creationDate": "2023-02-01T10:10:10Z",
+        "dueDate": "2023-12-15T19:20:33Z"
+      },
+      "style": {
+        "node-color": "#aea1ff"
+      }
+    },
+    {
+      "id": "n43",
+      "position": {
+        "x": 648.7172425685408,
+        "y": 795.6127208307414
+      },
+      "caption": "DAO EasyPay team payroll invoice",
+      "labels": [
+        "invoice"
+      ],
+      "properties": {
+        "title": "DAO EasyPay team payroll invoice",
+        "description": "Nothing to say at the moment",
+        "imageUrl": "https://esaypay-storage.fra1.cdn.digitaloceanspaces.com/invoices/default_invoice.png",
+        "requestedAmount": "0.03",
+        "payedAmount": "0.0",
+        "status": "pending",
+        "creationDate": "2023-01-01T10:00:00",
+        "dueDate": "2024-01-01T10:00:00",
+        "type": "invoice"
+      },
+      "style": {
+        "node-color": "#fcdc00"
+      }
+    },
+    {
+      "id": "n44",
+      "position": {
+        "x": 236.29294537881125,
+        "y": 1677.1851672898879
+      },
+      "caption": "",
+      "labels": [
+        "email"
+      ],
+      "properties": {
+        "address": "dharapko@gmail.com"
+      },
+      "style": {
+        "node-color": "#999999"
+      }
+    },
+    {
+      "id": "n47",
+      "position": {
+        "x": 573.6840594986064,
+        "y": 316.4490337451023
+      },
+      "caption": "Invoice to Alexandra",
+      "labels": [
+        "invoice"
+      ],
+      "properties": {
+        "title": "Invoice to Alexandra",
+        "description": "Nothing to say at the moment",
+        "imageUrl": "https://esaypay-storage.fra1.cdn.digitaloceanspaces.com/invoices/default_invoice.png",
+        "requestedAmount": "0.01",
+        "payedAmount": "0.0",
+        "status": "pending",
+        "creationDate": "2023-01-01T10:00:00",
+        "dueDate": "2024-01-01T10:00:00",
+        "type": "invoice"
+      },
+      "style": {
+        "node-color": "#fcdc00"
+      }
+    },
+    {
+      "id": "n49",
+      "position": {
+        "x": 1571.452860919214,
+        "y": 944.8852005975293
+      },
+      "caption": "Amazon $100 gift card",
+      "labels": [
+        "product"
+      ],
+      "properties": {
+        "title": "Amazon $100 gift card",
+        "description": "Giving the recipient access to a vast online marketplace with virtually limitless choices",
+        "requestedAmount": "0.3141592",
+        "imageUrl": "https://esaypay-storage.fra1.cdn.digitaloceanspaces.com/catalog/items/amazon.PNG",
+        "creationDate": "2023-02-01T10:10:10Z",
+        "dueDate": "2023-12-15T19:20:33Z"
+      },
+      "style": {
+        "node-color": "#aea1ff"
+      }
+    },
+    {
+      "id": "n58",
+      "position": {
+        "x": 1518.6817124584684,
+        "y": 286.5622787680493
+      },
+      "caption": "Invoice to Ihar",
+      "labels": [
+        "invoice"
+      ],
+      "properties": {
+        "title": "Invoice to Ihar",
+        "description": "Nothing to say at the moment",
+        "imageUrl": "https://esaypay-storage.fra1.cdn.digitaloceanspaces.com/invoices/default_invoice.png",
+        "requestedAmount": "1.14",
+        "payedAmount": "0.0",
+        "status": "pending",
+        "creationDate": "2023-01-01T10:00:00",
+        "dueDate": "2024-01-01T10:00:00",
+        "type": "invoice"
+      },
+      "style": {
+        "node-color": "#fcdc00"
+      }
+    },
+    {
+      "id": "n68",
+      "position": {
+        "x": 831.0055609730064,
+        "y": 510.45330947916096
+      },
+      "caption": "Rococo testnet",
+      "labels": [
+        "zone"
+      ],
+      "properties": {
+        "logoUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/v3/assets/chains/rococo-testnet.svg",
+        "networkId": "rococo-testnet",
+        "name": "Rococo polkacot testnet"
+      },
+      "style": {
+        "radius": 100,
+        "node-color": "#a4dd00",
+        "border-color": "#68bc00",
+        "caption-font-size": 100
+      }
+    },
+    {
+      "id": "n72",
+      "position": {
+        "x": 1038.3964906791516,
+        "y": 772.1395550236621
+      },
+      "caption": "DOT",
+      "labels": [
+        "token"
+      ],
+      "properties": {
+        "ticker": "DOT",
+        "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/6636.png",
+        "denom": "tdot"
+      },
+      "style": {
+        "node-color": "#73d8ff",
+        "border-color": "#0062b1"
+      }
+    },
+    {
+      "id": "n75",
+      "position": {
+        "x": 1238.9010700841502,
+        "y": 548.1992505356523
+      },
+      "caption": "",
+      "labels": [
+        "address"
+      ],
+      "properties": {
+        "address": "5CVH8iUV24T3Yh2QPVp5CURuQ76n3B6oYTPiovi9Bapxsymi"
+      },
+      "style": {
+        "node-color": "#999999"
+      }
+    },
+    {
+      "id": "n76",
+      "position": {
+        "x": 1637.5201263776607,
+        "y": 841.3576487818063
+      },
+      "caption": "Steam $100 gift card",
+      "labels": [
+        "product"
+      ],
+      "properties": {
+        "title": "Steam $100 gift card",
+        "description": "For the purchase of games, software, wallet credit, and any other item you can purchase on Steam.",
+        "requestedAmount": "0.3141592",
+        "imageUrl": "https://esaypay-storage.fra1.cdn.digitaloceanspaces.com/catalog/items/steam.PNG",
+        "creationDate": "2023-02-01T10:10:10Z",
+        "dueDate": "2023-12-15T19:20:33Z"
+      },
+      "style": {
+        "node-color": "#aea1ff"
+      }
+    },
+    {
+      "id": "n77",
+      "position": {
+        "x": 1518.6817124584684,
+        "y": 1047.8023323994537
+      },
+      "caption": "iTunes $100 gift card",
+      "labels": [
+        "product"
+      ],
+      "properties": {
+        "title": "iTunes $100 gift card",
+        "description": "They can be used to purchase apps, music, movies, and TV shows from the App store.",
+        "requestedAmount": "0.3141592",
+        "imageUrl": "https://esaypay-storage.fra1.cdn.digitaloceanspaces.com/catalog/items/itunes.PNG",
+        "creationDate": "2023-02-01T10:10:10Z",
+        "dueDate": "2023-12-15T19:20:33Z"
+      },
+      "style": {
+        "node-color": "#aea1ff"
+      }
+    },
+    {
+      "id": "n78",
+      "position": {
+        "x": 1204.6251398570632,
+        "y": 1651.8637415866006
+      },
+      "caption": "Google Play $100 gift card",
+      "labels": [
+        "product"
+      ],
+      "properties": {
+        "title": "Google Play $100 gift card",
+        "description": "Can be used on the Google Play Store, the official app store for Android, to purchase apps, games, and more.",
+        "requestedAmount": "3.141592",
+        "imageUrl": "https://esaypay-storage.fra1.cdn.digitaloceanspaces.com/catalog/items/google_play.PNG",
+        "creationDate": "2023-02-01T10:10:10Z",
+        "dueDate": "2023-12-15T19:20:33Z"
+      },
+      "style": {
+        "node-color": "#aea1ff"
+      }
+    },
+    {
+      "id": "n79",
+      "position": {
+        "x": 1606.7803269010835,
+        "y": 1158.9848970452065
+      },
+      "caption": "PlayStation $100 gift card",
+      "labels": [
+        "product"
+      ],
+      "properties": {
+        "title": "PlayStation $100 gift card",
+        "description": "You or your gamer friend can purchase games, add-ons, and other content on the PlayStation Network.",
+        "requestedAmount": "0.3141592",
+        "imageUrl": "https://esaypay-storage.fra1.cdn.digitaloceanspaces.com/catalog/items/playstation.PNG",
+        "creationDate": "2023-02-01T10:10:10Z",
+        "dueDate": "2023-12-15T19:20:33Z"
+      },
+      "style": {
+        "node-color": "#aea1ff"
+      }
+    },
+    {
+      "id": "n80",
+      "position": {
+        "x": 1672.218358578747,
+        "y": 1054.0902608512536
+      },
+      "caption": "Xbox $100 gift card",
+      "labels": [
+        "product"
+      ],
+      "properties": {
+        "title": "Xbox $100 gift card",
+        "description": "It can be used to buy the hottest new Xbox full game downloads, apps, films, TV programmes, devices and more.",
+        "requestedAmount": "0.3141592",
+        "imageUrl": "https://esaypay-storage.fra1.cdn.digitaloceanspaces.com/catalog/items/xbox.PNG",
+        "creationDate": "2023-02-01T10:10:10Z",
+        "dueDate": "2023-12-15T19:20:33Z"
+      },
+      "style": {
+        "node-color": "#aea1ff"
+      }
+    },
+    {
+      "id": "n81",
+      "position": {
+        "x": 1724.0663607305721,
+        "y": 965.5061116060242
+      },
+      "caption": "Disney $100 gift card",
+      "labels": [
+        "product"
+      ],
+      "properties": {
+        "title": "Disney $100 gift card",
+        "description": "Offers a world of possibilities - shopping, dining Resort stays, Theme Park tickets and more - at Disney locations throughout the US.",
+        "requestedAmount": "0.3141592",
+        "imageUrl": "https://esaypay-storage.fra1.cdn.digitaloceanspaces.com/catalog/items/disney.PNG",
+        "creationDate": "2023-02-01T10:10:10Z",
+        "dueDate": "2023-12-15T19:20:33Z"
+      },
+      "style": {
+        "node-color": "#aea1ff"
+      }
+    },
+    {
+      "id": "n82",
+      "position": {
+        "x": 1819.9349097465108,
+        "y": 897.1459969243049
+      },
+      "caption": "Spotify $100 gift card",
+      "labels": [
+        "product"
+      ],
+      "properties": {
+        "title": "Spotify $100 gift card",
+        "description": "For a Spotify Premium subscription, the full value of the Card will be used to purchase a number of months of subscription equal to the total value of the Card, divided by the per-month subscription fee.",
+        "requestedAmount": "0.3141592",
+        "imageUrl": "https://esaypay-storage.fra1.cdn.digitaloceanspaces.com/catalog/items/spotify.PNG",
+        "creationDate": "2023-02-01T10:10:10Z",
+        "dueDate": "2023-12-15T19:20:33Z"
+      },
+      "style": {
+        "node-color": "#aea1ff"
+      }
+    },
+    {
+      "id": "n83",
+      "position": {
+        "x": 1889.0043319308597,
+        "y": 795.6127208307414
+      },
+      "caption": "eBay $100 gift card",
+      "labels": [
+        "product"
+      ],
+      "properties": {
+        "title": "eBay $100 gift card",
+        "description": "Can be used to pay for almost any item on our site. You can use your gift card to pay for all or part of your next purchase.",
+        "requestedAmount": "0.3141592",
+        "imageUrl": "https://esaypay-storage.fra1.cdn.digitaloceanspaces.com/catalog/items/ebay.PNG",
+        "creationDate": "2023-02-01T10:10:10Z",
+        "dueDate": "2023-12-15T19:20:33Z"
+      },
+      "style": {
+        "node-color": "#aea1ff"
+      }
+    },
+    {
+      "id": "n84",
+      "position": {
+        "x": 1742.4772000895157,
+        "y": 807.5892823834861
+      },
+      "caption": "Netflix $100 gift card",
+      "labels": [
+        "product"
+      ],
+      "properties": {
+        "title": "Netflix $100 gift card",
+        "description": "To pay for Netflix or to give as a gift.",
+        "requestedAmount": "0.3141592",
+        "imageUrl": "https://esaypay-storage.fra1.cdn.digitaloceanspaces.com/catalog/items/netflix.PNG",
+        "creationDate": "2023-02-01T10:10:10Z",
+        "dueDate": "2023-12-15T19:20:33Z"
+      },
+      "style": {
+        "node-color": "#aea1ff"
+      }
+    },
+    {
+      "id": "n89",
+      "position": {
+        "x": 52.1230663377087,
+        "y": 472.6983096538457
+      },
+      "caption": "Rococo testnet asset hub",
+      "labels": [
+        "zone"
+      ],
+      "properties": {
+        "logoUrl": "https://polkadot.subscan.io/static/img/statemint-button-mobile.16cc09fa.svg",
+        "networkId": "rococo-asset-hub",
+        "name": "Rococo testnet asset hub"
+      },
+      "style": {
+        "radius": 100,
+        "node-color": "#a4dd00",
+        "border-color": "#68bc00",
+        "caption-font-size": 100,
+        "property-font-size": 16
+      }
+    },
+    {
+      "id": "n90",
+      "position": {
+        "x": -28.63837886099011,
+        "y": 808.4800394140611
+      },
+      "caption": "",
+      "labels": [
+        "address"
+      ],
+      "properties": {
+        "address": "5CVH8iUV24T3Yh2QPVp5CURuQ76n3B6oYTPiovi9Bapxsymi"
+      },
+      "style": {
+        "node-color": "#999999"
+      }
+    },
+    {
+      "id": "n91",
+      "position": {
+        "x": 313.7815326060906,
+        "y": 726.506249438178
+      },
+      "caption": "DOT",
+      "labels": [
+        "token"
+      ],
+      "properties": {
+        "ticker": "DOT",
+        "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/6636.png",
+        "denom": "atdot"
+      },
+      "style": {
+        "node-color": "#73d8ff",
+        "border-color": "#0062b1"
+      }
+    },
+    {
+      "id": "n93",
+      "position": {
+        "x": 1819.9349097465108,
+        "y": 135.24809407186098
+      },
+      "caption": "Polkadot",
+      "labels": [
+        "zone"
+      ],
+      "properties": {
+        "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/6636.png",
+        "networkId": "Polkadot",
+        "name": "polkadot"
+      },
+      "style": {
+        "radius": 100,
+        "node-color": "#a4dd00",
+        "border-color": "#68bc00",
+        "caption-font-size": 100
+      }
+    },
+    {
+      "id": "n94",
+      "position": {
+        "x": 1637.5201263776607,
+        "y": -142.2710399826748
+      },
+      "caption": "DOT",
+      "labels": [
+        "token"
+      ],
+      "properties": {
+        "ticker": "DOT",
+        "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/6636.png",
+        "denom": "y123d"
+      },
+      "style": {
+        "node-color": "#73d8ff",
+        "border-color": "#0062b1"
+      }
+    },
+    {
+      "id": "n95",
+      "position": {
+        "x": 1178.2286239627338,
+        "y": -142.2710399826748
+      },
+      "caption": "DOT",
+      "labels": [
+        "derivative"
+      ],
+      "properties": {
+        "denomTrace": "channel-3",
+        "originalTicker": "DOT",
+        "denom": "ibc/23J5...63U2",
+        "localTicker": "DOT",
+        "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/6636.png"
+      },
+      "style": {
+        "radius": 35,
+        "node-color": "#68ccca",
+        "border-color": "#000000"
+      }
+    },
+    {
+      "id": "n96",
+      "position": {
+        "x": 741.3194332044137,
+        "y": 109.97859891306302
+      },
+      "caption": "USDC",
+      "style": {
+        "node-color": "#73d8ff",
+        "border-color": "#0062b1"
+      },
+      "labels": [
+        "token"
+      ],
+      "properties": {
+        "ticker": "USDC",
+        "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+        "denom": "husdc"
+      }
+    },
+    {
+      "id": "n97",
+      "position": {
+        "x": 1298.624332189162,
+        "y": 413.6124665036972
+      },
+      "caption": "",
+      "labels": [
+        "address"
+      ],
+      "properties": {
+        "address": "7J28ZYqx6ApJpvX9QgHa8Q1pyJ6xC2KjWD2UjHDTuYKCnwxN"
+      },
+      "style": {
+        "node-color": "#999999"
+      }
+    },
+    {
+      "id": "n98",
+      "position": {
+        "x": 2142.4390375468147,
+        "y": 214.5141682123729
+      },
+      "caption": "",
+      "labels": [
+        "address"
+      ],
+      "properties": {
+        "address": "1RaH3jYsqiWzE2vM8s5LdG4Fj6RjUewcx8CyDhVjfrV4VS1"
+      },
+      "style": {
+        "node-color": "#999999"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "id": "n38",
+      "fromId": "n3",
+      "toId": "n1",
+      "type": "located",
+      "properties": {},
+      "style": {
+        "arrow-color": "#cccccc"
+      }
+    },
+    {
+      "id": "n56",
+      "fromId": "n30",
+      "toId": "n17",
+      "type": "relatedCategory",
+      "properties": {},
+      "style": {
+        "arrow-color": "#999999"
+      }
+    },
+    {
+      "id": "n63",
+      "fromId": "n34",
+      "toId": "n17",
+      "type": "relatedCategory",
+      "properties": {},
+      "style": {
+        "arrow-color": "#999999"
+      }
+    },
+    {
+      "id": "n65",
+      "fromId": "n35",
+      "toId": "n17",
+      "type": "relatedCategory",
+      "properties": {},
+      "style": {
+        "arrow-color": "#999999"
+      }
+    },
+    {
+      "id": "n69",
+      "fromId": "n37",
+      "toId": "n17",
+      "type": "relatedCategory",
+      "properties": {},
+      "style": {
+        "arrow-color": "#999999"
+      }
+    },
+    {
+      "id": "n76",
+      "type": "requested",
+      "style": {
+        "arrow-color": "#aea1ff"
+      },
+      "properties": {},
+      "fromId": "n41",
+      "toId": "n3"
+    },
+    {
+      "id": "n80",
+      "fromId": "n41",
+      "toId": "n28",
+      "type": "relatedCategory",
+      "properties": {},
+      "style": {
+        "arrow-color": "#999999"
+      }
+    },
+    {
+      "id": "n84",
+      "fromId": "n43",
+      "toId": "n44",
+      "type": "requester",
+      "properties": {},
+      "style": {
+        "arrow-color": "#fcdc00"
+      }
+    },
+    {
+      "id": "n90",
+      "fromId": "n30",
+      "toId": "n44",
+      "type": "requester",
+      "properties": {},
+      "style": {
+        "arrow-color": "#fcdc00"
+      }
+    },
+    {
+      "id": "n93",
+      "fromId": "n47",
+      "toId": "n44",
+      "type": "requester",
+      "properties": {},
+      "style": {
+        "arrow-color": "#fcdc00"
+      }
+    },
+    {
+      "id": "n98",
+      "fromId": "n49",
+      "toId": "n19",
+      "type": "relatedCategory",
+      "properties": {},
+      "style": {
+        "arrow-color": "#999999"
+      }
+    },
+    {
+      "id": "n113",
+      "fromId": "n58",
+      "toId": "n44",
+      "type": "requester",
+      "properties": {},
+      "style": {
+        "arrow-color": "#fcdc00"
+      }
+    },
+    {
+      "id": "n132",
+      "fromId": "n35",
+      "toId": "n44",
+      "type": "requester",
+      "properties": {},
+      "style": {
+        "arrow-color": "#fcdc00"
+      }
+    },
+    {
+      "id": "n139",
+      "fromId": "n34",
+      "toId": "n44",
+      "type": "requester",
+      "properties": {},
+      "style": {
+        "arrow-color": "#fcdc00"
+      }
+    },
+    {
+      "id": "n141",
+      "fromId": "n37",
+      "toId": "n44",
+      "type": "requester",
+      "properties": {},
+      "style": {
+        "arrow-color": "#fcdc00"
+      }
+    },
+    {
+      "id": "n155",
+      "fromId": "n72",
+      "toId": "n68",
+      "type": "located",
+      "properties": {},
+      "style": {
+        "arrow-color": "#cccccc"
+      }
+    },
+    {
+      "id": "n172",
+      "fromId": "n49",
+      "toId": "n72",
+      "type": "requested",
+      "properties": {},
+      "style": {
+        "arrow-color": "#aea1ff"
+      }
+    },
+    {
+      "id": "n173",
+      "fromId": "n49",
+      "toId": "n44",
+      "type": "requester",
+      "properties": {},
+      "style": {
+        "arrow-color": "#fcdc00"
+      }
+    },
+    {
+      "id": "n175",
+      "fromId": "n49",
+      "toId": "n75",
+      "type": "receiver",
+      "properties": {},
+      "style": {
+        "arrow-color": "#a4dd00"
+      }
+    },
+    {
+      "id": "n176",
+      "fromId": "n76",
+      "toId": "n19",
+      "type": "relatedCategory",
+      "properties": {},
+      "style": {
+        "arrow-color": "#999999"
+      }
+    },
+    {
+      "id": "n177",
+      "fromId": "n76",
+      "toId": "n72",
+      "type": "requested",
+      "properties": {},
+      "style": {
+        "arrow-color": "#aea1ff"
+      }
+    },
+    {
+      "id": "n178",
+      "fromId": "n76",
+      "toId": "n44",
+      "type": "requester",
+      "properties": {},
+      "style": {
+        "arrow-color": "#fcdc00"
+      }
+    },
+    {
+      "id": "n179",
+      "fromId": "n76",
+      "toId": "n75",
+      "type": "receiver",
+      "properties": {},
+      "style": {
+        "arrow-color": "#a4dd00"
+      }
+    },
+    {
+      "id": "n180",
+      "fromId": "n77",
+      "toId": "n19",
+      "type": "relatedCategory",
+      "properties": {},
+      "style": {
+        "arrow-color": "#999999"
+      }
+    },
+    {
+      "id": "n181",
+      "fromId": "n77",
+      "toId": "n72",
+      "type": "requested",
+      "properties": {},
+      "style": {
+        "arrow-color": "#aea1ff"
+      }
+    },
+    {
+      "id": "n182",
+      "fromId": "n77",
+      "toId": "n44",
+      "type": "requester",
+      "properties": {},
+      "style": {
+        "arrow-color": "#fcdc00"
+      }
+    },
+    {
+      "id": "n183",
+      "fromId": "n77",
+      "toId": "n75",
+      "type": "receiver",
+      "properties": {},
+      "style": {
+        "arrow-color": "#a4dd00"
+      }
+    },
+    {
+      "id": "n184",
+      "fromId": "n78",
+      "toId": "n19",
+      "type": "relatedCategory",
+      "properties": {},
+      "style": {
+        "arrow-color": "#999999"
+      }
+    },
+    {
+      "id": "n186",
+      "fromId": "n78",
+      "toId": "n44",
+      "type": "requester",
+      "properties": {},
+      "style": {
+        "arrow-color": "#fcdc00"
+      }
+    },
+    {
+      "id": "n188",
+      "fromId": "n79",
+      "toId": "n19",
+      "type": "relatedCategory",
+      "properties": {},
+      "style": {
+        "arrow-color": "#999999"
+      }
+    },
+    {
+      "id": "n189",
+      "fromId": "n79",
+      "toId": "n72",
+      "type": "requested",
+      "properties": {},
+      "style": {
+        "arrow-color": "#aea1ff"
+      }
+    },
+    {
+      "id": "n190",
+      "fromId": "n79",
+      "toId": "n44",
+      "type": "requester",
+      "properties": {},
+      "style": {
+        "arrow-color": "#fcdc00"
+      }
+    },
+    {
+      "id": "n191",
+      "fromId": "n79",
+      "toId": "n75",
+      "type": "receiver",
+      "properties": {},
+      "style": {
+        "arrow-color": "#a4dd00"
+      }
+    },
+    {
+      "id": "n192",
+      "fromId": "n80",
+      "toId": "n19",
+      "type": "relatedCategory",
+      "properties": {},
+      "style": {
+        "arrow-color": "#999999"
+      }
+    },
+    {
+      "id": "n193",
+      "fromId": "n80",
+      "toId": "n72",
+      "type": "requested",
+      "properties": {},
+      "style": {
+        "arrow-color": "#aea1ff"
+      }
+    },
+    {
+      "id": "n194",
+      "fromId": "n80",
+      "toId": "n44",
+      "type": "requester",
+      "properties": {},
+      "style": {
+        "arrow-color": "#fcdc00"
+      }
+    },
+    {
+      "id": "n195",
+      "fromId": "n80",
+      "toId": "n75",
+      "type": "receiver",
+      "properties": {},
+      "style": {
+        "arrow-color": "#a4dd00"
+      }
+    },
+    {
+      "id": "n196",
+      "fromId": "n81",
+      "toId": "n19",
+      "type": "relatedCategory",
+      "properties": {},
+      "style": {
+        "arrow-color": "#999999"
+      }
+    },
+    {
+      "id": "n197",
+      "fromId": "n81",
+      "toId": "n72",
+      "type": "requested",
+      "properties": {},
+      "style": {
+        "arrow-color": "#aea1ff"
+      }
+    },
+    {
+      "id": "n198",
+      "fromId": "n81",
+      "toId": "n44",
+      "type": "requester",
+      "properties": {},
+      "style": {
+        "arrow-color": "#fcdc00"
+      }
+    },
+    {
+      "id": "n199",
+      "fromId": "n81",
+      "toId": "n75",
+      "type": "receiver",
+      "properties": {},
+      "style": {
+        "arrow-color": "#a4dd00"
+      }
+    },
+    {
+      "id": "n200",
+      "fromId": "n82",
+      "toId": "n19",
+      "type": "relatedCategory",
+      "properties": {},
+      "style": {
+        "arrow-color": "#999999"
+      }
+    },
+    {
+      "id": "n201",
+      "fromId": "n82",
+      "toId": "n72",
+      "type": "requested",
+      "properties": {},
+      "style": {
+        "arrow-color": "#aea1ff"
+      }
+    },
+    {
+      "id": "n202",
+      "fromId": "n82",
+      "toId": "n44",
+      "type": "requester",
+      "properties": {},
+      "style": {
+        "arrow-color": "#fcdc00"
+      }
+    },
+    {
+      "id": "n203",
+      "fromId": "n82",
+      "toId": "n75",
+      "type": "receiver",
+      "properties": {},
+      "style": {
+        "arrow-color": "#a4dd00"
+      }
+    },
+    {
+      "id": "n204",
+      "fromId": "n83",
+      "toId": "n19",
+      "type": "relatedCategory",
+      "properties": {},
+      "style": {
+        "arrow-color": "#999999"
+      }
+    },
+    {
+      "id": "n205",
+      "fromId": "n83",
+      "toId": "n72",
+      "type": "requested",
+      "properties": {},
+      "style": {
+        "arrow-color": "#aea1ff"
+      }
+    },
+    {
+      "id": "n206",
+      "fromId": "n83",
+      "toId": "n44",
+      "type": "requester",
+      "properties": {},
+      "style": {
+        "arrow-color": "#fcdc00"
+      }
+    },
+    {
+      "id": "n207",
+      "fromId": "n83",
+      "toId": "n75",
+      "type": "receiver",
+      "properties": {},
+      "style": {
+        "arrow-color": "#a4dd00"
+      }
+    },
+    {
+      "id": "n208",
+      "fromId": "n84",
+      "toId": "n19",
+      "type": "relatedCategory",
+      "properties": {},
+      "style": {
+        "arrow-color": "#999999"
+      }
+    },
+    {
+      "id": "n209",
+      "fromId": "n84",
+      "toId": "n72",
+      "type": "requested",
+      "properties": {},
+      "style": {
+        "arrow-color": "#aea1ff"
+      }
+    },
+    {
+      "id": "n210",
+      "fromId": "n84",
+      "toId": "n44",
+      "type": "requester",
+      "properties": {},
+      "style": {
+        "arrow-color": "#fcdc00"
+      }
+    },
+    {
+      "id": "n211",
+      "fromId": "n84",
+      "toId": "n75",
+      "type": "receiver",
+      "properties": {},
+      "style": {
+        "arrow-color": "#a4dd00"
+      }
+    },
+    {
+      "id": "n226",
+      "fromId": "n90",
+      "toId": "n89",
+      "type": "located",
+      "properties": {},
+      "style": {
+        "arrow-color": "#cccccc"
+      }
+    },
+    {
+      "id": "n227",
+      "fromId": "n91",
+      "toId": "n89",
+      "type": "located",
+      "properties": {},
+      "style": {
+        "arrow-color": "#cccccc"
+      }
+    },
+    {
+      "id": "n232",
+      "fromId": "n30",
+      "toId": "n90",
+      "type": "receiver",
+      "properties": {},
+      "style": {
+        "arrow-color": "#a4dd00"
+      }
+    },
+    {
+      "id": "n233",
+      "fromId": "n30",
+      "toId": "n91",
+      "type": "requested",
+      "properties": {},
+      "style": {
+        "arrow-color": "#aea1ff"
+      }
+    },
+    {
+      "id": "n237",
+      "type": "receiver",
+      "style": {
+        "arrow-color": "#a4dd00"
+      },
+      "properties": {},
+      "fromId": "n35",
+      "toId": "n90"
+    },
+    {
+      "id": "n238",
+      "type": "receiver",
+      "style": {
+        "arrow-color": "#a4dd00"
+      },
+      "properties": {},
+      "fromId": "n37",
+      "toId": "n90"
+    },
+    {
+      "id": "n239",
+      "type": "receiver",
+      "style": {
+        "arrow-color": "#a4dd00"
+      },
+      "properties": {},
+      "fromId": "n34",
+      "toId": "n90"
+    },
+    {
+      "id": "n240",
+      "type": "requested",
+      "style": {
+        "arrow-color": "#aea1ff"
+      },
+      "properties": {},
+      "fromId": "n37",
+      "toId": "n91"
+    },
+    {
+      "id": "n241",
+      "type": "requested",
+      "style": {
+        "arrow-color": "#aea1ff"
+      },
+      "properties": {},
+      "fromId": "n35",
+      "toId": "n91"
+    },
+    {
+      "id": "n242",
+      "type": "requested",
+      "style": {
+        "arrow-color": "#aea1ff"
+      },
+      "properties": {},
+      "fromId": "n34",
+      "toId": "n91"
+    },
+    {
+      "id": "n243",
+      "type": "receiver",
+      "style": {
+        "arrow-color": "#a4dd00"
+      },
+      "properties": {},
+      "fromId": "n78",
+      "toId": "n90"
+    },
+    {
+      "id": "n244",
+      "type": "requested",
+      "style": {
+        "arrow-color": "#aea1ff"
+      },
+      "properties": {},
+      "fromId": "n78",
+      "toId": "n91"
+    },
+    {
+      "id": "n247",
+      "type": "located",
+      "style": {
+        "arrow-color": "#cccccc"
+      },
+      "properties": {},
+      "fromId": "n94",
+      "toId": "n93"
+    },
+    {
+      "id": "n248",
+      "type": "ibcTransfer",
+      "style": {
+        "arrow-color": "#ab149e"
+      },
+      "properties": {
+        "cost": "1"
+      },
+      "fromId": "n94",
+      "toId": "n95"
+    },
+    {
+      "id": "n249",
+      "type": "ibcTransfer",
+      "style": {
+        "arrow-color": "#ab149e"
+      },
+      "properties": {
+        "cost": "1"
+      },
+      "fromId": "n95",
+      "toId": "n94"
+    },
+    {
+      "id": "n250",
+      "type": "located",
+      "style": {
+        "arrow-color": "#cccccc"
+      },
+      "properties": {},
+      "fromId": "n95",
+      "toId": "n1"
+    },
+    {
+      "id": "n251",
+      "type": "exchange",
+      "style": {
+        "arrow-color": "#9f0500"
+      },
+      "properties": {
+        "cost": "1"
+      },
+      "fromId": "n3",
+      "toId": "n95"
+    },
+    {
+      "id": "n252",
+      "type": "exchange",
+      "style": {
+        "arrow-color": "#9f0500"
+      },
+      "properties": {
+        "cost": "1"
+      },
+      "fromId": "n95",
+      "toId": "n3"
+    },
+    {
+      "id": "n257",
+      "type": "exchange",
+      "fromId": "n96",
+      "toId": "n95",
+      "style": {
+        "arrow-color": "#9f0500"
+      },
+      "properties": {
+        "cost": "1"
+      }
+    },
+    {
+      "id": "n258",
+      "type": "exchange",
+      "fromId": "n95",
+      "toId": "n96",
+      "style": {
+        "arrow-color": "#9f0500"
+      },
+      "properties": {
+        "cost": "1"
+      }
+    },
+    {
+      "id": "n259",
+      "type": "located",
+      "style": {
+        "arrow-color": "#cccccc"
+      },
+      "properties": {},
+      "fromId": "n97",
+      "toId": "n1"
+    },
+    {
+      "id": "n260",
+      "type": "receiver",
+      "style": {
+        "arrow-color": "#a4dd00"
+      },
+      "properties": {},
+      "fromId": "n41",
+      "toId": "n97"
+    },
+    {
+      "id": "n261",
+      "type": "located",
+      "style": {
+        "arrow-color": "#cccccc"
+      },
+      "properties": {},
+      "fromId": "n96",
+      "toId": "n1"
+    },
+    {
+      "id": "n262",
+      "type": "located",
+      "style": {
+        "arrow-color": "#cccccc"
+      },
+      "properties": {},
+      "fromId": "n75",
+      "toId": "n68"
+    },
+    {
+      "id": "n263",
+      "type": "requester",
+      "style": {
+        "arrow-color": "#fcdc00"
+      },
+      "properties": {},
+      "fromId": "n41",
+      "toId": "n44"
+    },
+    {
+      "id": "n264",
+      "type": "located",
+      "style": {
+        "arrow-color": "#cccccc"
+      },
+      "properties": {},
+      "fromId": "n98",
+      "toId": "n93"
+    },
+    {
+      "id": "n265",
+      "type": "receiver",
+      "style": {
+        "arrow-color": "#a4dd00"
+      },
+      "properties": {},
+      "fromId": "n43",
+      "toId": "n75"
+    },
+    {
+      "id": "n266",
+      "type": "requested",
+      "style": {
+        "arrow-color": "#aea1ff"
+      },
+      "properties": {},
+      "fromId": "n43",
+      "toId": "n72"
+    },
+    {
+      "id": "n267",
+      "type": "receiver",
+      "style": {
+        "arrow-color": "#a4dd00"
+      },
+      "properties": {},
+      "fromId": "n47",
+      "toId": "n97"
+    },
+    {
+      "id": "n268",
+      "type": "requested",
+      "style": {
+        "arrow-color": "#aea1ff"
+      },
+      "properties": {},
+      "fromId": "n47",
+      "toId": "n96"
+    },
+    {
+      "id": "n269",
+      "type": "receiver",
+      "style": {
+        "arrow-color": "#a4dd00"
+      },
+      "properties": {},
+      "fromId": "n58",
+      "toId": "n97"
+    },
+    {
+      "id": "n270",
+      "type": "requested",
+      "style": {
+        "arrow-color": "#aea1ff"
+      },
+      "properties": {},
+      "fromId": "n58",
+      "toId": "n3"
+    }
+  ]
+}
